@@ -13,8 +13,6 @@ Javascript , React JS , Node js
 
 ## Installation
 
-Install my-project with npm
-
 Create vite + React or simple react app
 ```bash
 npx create-react-app project_name
